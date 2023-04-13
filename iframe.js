@@ -31,4 +31,5 @@ javascript:(function() {
 
   document.body.appendChild(iframe);
   document.body.appendChild(closeButton);
-})();
+   alert('Made by Tacogamerman on github.')
+})();cript 
