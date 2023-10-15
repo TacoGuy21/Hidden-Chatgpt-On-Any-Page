@@ -1,4 +1,4 @@
-# 🤤 Bing-Bookmarklet-Iframe 🤤
+# 🤤 Hidden-Chatgpt-On-Any-Page 🤤
 
 Undetectable, cloaked styled Chatgpt iframe for instantly finding answers to the problem on any webpage.
 
