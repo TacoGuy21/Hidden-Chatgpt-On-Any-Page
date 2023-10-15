@@ -1,6 +1,6 @@
 javascript:(function() {
   var iframe = document.createElement('iframe');
-  iframe.setAttribute('src', 'https://Bing.com');
+  iframe.setAttribute('src', 'https://gptchatly.com/');
   iframe.style.position = 'fixed';
   iframe.style.top = '50%';
   iframe.style.left = '50%';
